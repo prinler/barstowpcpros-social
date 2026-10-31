@@ -1,5 +1,5 @@
 # Brand Profile — Barstow PC Pros
-<!-- version: 1.1 · last updated: 2026-10-30 · review: quarterly or on new offer
+<!-- version: 1.2 · last updated: 2026-10-30 · review: quarterly or on new offer
      · type: local services · source: "Desert Dusk" site copy (D:\Claude Projects\Barstow PC Pros\Website) -->
 
 ## Identity
@@ -52,7 +52,7 @@ _Split posts about evenly between the two segments._
 - **Pronunciation guide:** Barstow (BAR-stoh). Daggett (DAG-it). Yermo (YUR-moh). Hinkley (HINK-lee).
 
 ## Proof
-- **Numbers:** IT support from $99/hr · Starter Website $499+ · Business Website $999+ · Website + Tools $1,799+ · Ongoing Care $99/mo+ ⚠️ confirm these match the live site before posting them
+- **Numbers:** IT support from $99/hr · Starter Website $499+ · Business Website $999+ · Website + Tools $1,799+ · Ongoing Care $99/mo+ (includes hosting). Confirmed against the live site and QuickBooks on 2026-10-30.
 - **Named customers / sample sites:** TBD
 - **Credentials / track record:** 20+ years working in the IT industry
 - **Social proof:** TBD
@@ -61,6 +61,7 @@ _Split posts about evenly between the two segments._
 ## Offers & CTAs
 - **Primary CTA:** Call or text (760) 282-4859. "Text a quick description, that's enough to start."
 - **Secondary CTAs:** Request a website (barstowpcpros.com) · Start remote help (support.barstowpcpros.com, existing customers only) · email barstowpcpros@gmail.com
+- **Payment terms (posted on the site):** Remote help has a 1-hour minimum ($99), paid through a secure QuickBooks link before connecting, then 15-minute steps, with a check-in before going past the hour. Can't fix it → $50. On-site visits are paid before leaving. Websites: 50% to start, 50% before the site goes live. "We'll never ask for your card number over the phone." Full policy: claude/payment-policy.md.
 - **Hard-sell rules:** Helpful tips at least 3:1 over promos. Never push the remote-help link to strangers; it's for people already working with Steve.
 
 ## Channels

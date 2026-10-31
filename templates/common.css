@@ -1,0 +1,4 @@
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;overflow:hidden}
+body{font-family:"Inter Display","Inter",sans-serif;-webkit-font-smoothing:antialiased}
+.mono{font-family:"DejaVu Sans Mono",monospace;letter-spacing:.14em;text-transform:uppercase}
